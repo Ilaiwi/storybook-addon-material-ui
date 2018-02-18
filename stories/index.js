@@ -8,10 +8,6 @@ import { Welcome } from '@storybook/react/demo';
 import { MuiThemeProvider, createMuiTheme } from 'material-ui/styles';
 import createPalette from 'material-ui/styles/createPalette';
 
-// import purple from 'material-ui/colors/purple';
-// import green from 'material-ui/colors/green';
-// import red from 'material-ui/colors/red';
-
 import Button from 'material-ui/Button';
 
 import { muiTheme } from '../src';
