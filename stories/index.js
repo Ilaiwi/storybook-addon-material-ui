@@ -33,8 +33,6 @@ storiesOf('Material', module)
       <Button variant="raised" color="secondary">
         DO
       </Button>
-      <Button variant="raised" color="contrast">
-        ENGAGE
-      </Button>
+      <Button variant="raised">ENGAGE</Button>
     </div>
   ));
