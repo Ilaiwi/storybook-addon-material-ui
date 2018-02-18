@@ -2,6 +2,8 @@
 
 import { configure } from '@storybook/react';
 
+// TODO: story generator? scrape demo pages from MUI docs? pages and their demos separately?
+
 function loadStories() {
   require('../stories');
 }

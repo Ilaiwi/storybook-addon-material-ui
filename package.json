@@ -67,7 +67,7 @@
     "fifteen-kilos": "^2.0.0",
     "git-url-parse": "^6.0.1",
     "jsdom": "^9.5.0",
-    "material-ui": "next",
+    "material-ui": "^1.0.0-beta.33",
     "mocha": "^3.0.2",
     "node-sass": "^4.3.0",
     "prop-types": "^15.5.8",
@@ -82,14 +82,14 @@
   },
   "peerDependencies": {
     "@storybook/react": "^3.0.0",
-    "material-ui": "next",
+    "material-ui": "^1.0.0-beta.33",
     "prop-types": "^15.5.8",
     "react": "^15.0.0",
     "react-dom": "^15.0.0"
   },
   "dependencies": {
     "js-beautify": "^1.6.8",
-    "material-ui-icons": "^1.0.0-alpha.19",
+    "material-ui-icons": "^1.0.0-beta.17",
     "react-material-color-picker": "^1.1.0",
     "react-split-pane": "^0.1.50",
     "react-tap-event-plugin": "^2.0.1"
